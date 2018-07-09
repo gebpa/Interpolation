@@ -1,0 +1,24 @@
+.default-color0.chart-series-line {
+    -fx-stroke: green;
+    -fx-stroke-width: 7px;}
+.default-color1.chart-series-line {
+    -fx-stroke: red;
+    -fx-stroke-width: 2px; }
+.default-color2.chart-series-line {
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0px;}
+
+.default-color0.chart-line-symbol {
+    -fx-background-color: transparent, transparent;
+}
+.default-color1.chart-line-symbol {
+    -fx-background-color: transparent, transparent;
+}
+.default-color2.chart-line-symbol {
+    -fx-background-color: blue, white;
+}
+
+.default-color0.chart-legend-item-symbol{
+    -fx-background-color: green;
+}
+
